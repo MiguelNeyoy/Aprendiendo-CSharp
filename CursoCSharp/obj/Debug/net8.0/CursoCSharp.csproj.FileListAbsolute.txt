@@ -1,0 +1,14 @@
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.exe
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.deps.json
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.runtimeconfig.json
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.dll
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.pdb
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.AssemblyInfoInputs.cache
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.AssemblyInfo.cs
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.csproj.CoreCompileInputs.cache
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.dll
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\refint\CursoCSharp.dll
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.pdb
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll

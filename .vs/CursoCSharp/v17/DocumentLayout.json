@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AcrNube-PC-master\\C#\\CursoCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2210C61-F1DF-436D-A5D0-3816FD21ABF5}|CursoCSharp\\CursoCSharp.csproj|d:\\acrnube-pc-master\\c#\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2210C61-F1DF-436D-A5D0-3816FD21ABF5}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AcrNube-PC-master\\C#\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
+              "ToolTip": "D:\\AcrNube-PC-master\\C#\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeToolTip": "CursoCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T20:43:42.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
