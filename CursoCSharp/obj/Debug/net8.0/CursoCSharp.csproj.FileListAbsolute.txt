@@ -12,3 +12,4 @@ D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\refint\CursoCSh
 D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.pdb
 D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
 D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll
+D:\AcrNube-PC-master\C#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.sourcelink.json
